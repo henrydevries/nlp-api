@@ -5,6 +5,7 @@ click==8.1.7
 comm==0.2.2
 contractions==0.1.73
 debugpy==1.8.1
+nltk==3.8.1
 decorator==5.1.1
 emoji==2.14.1
 executing==2.0.1
